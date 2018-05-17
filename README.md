@@ -6,8 +6,8 @@ MODPACK MANIFESTO
 
 # DESCRIPTION
     
-        A lightweight experience that drives automation and infrastructure via exploration and creative footprint. 
-        IOTA reduces clear-cut options and presents refreshing enginering tools to cope with tangible, yet unorthodoxical demands, compared to our current ecosystem.
+    A lightweight experience that drives automation and infrastructure via exploration and creative footprint. 
+    IOTA reduces clear-cut options and presents refreshing enginering tools to cope with tangible, yet unorthodoxical demands, compared to our current ecosystem.
 
 
 # DIRECTIVES
