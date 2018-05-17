@@ -1,5 +1,6 @@
 # MOD LIST
 # iota 1.12.2
+# Extensive list of mods, authors and pool of possible additions.
 
 0.  DEPENDENCY                  # AUTHOR
     elulib                      > elucent ***
