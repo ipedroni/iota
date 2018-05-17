@@ -9,7 +9,7 @@ IOTA reduces clear-cut options and presents refreshing enginering tools to cope 
 
 # DIRECTIVES
 
-    PLUG & PLAY
+    <b>PLUG & PLAY</b>
     The modlist, dependencies and tweaks should be kept to a minimum.
 
     LESS IS MORE
