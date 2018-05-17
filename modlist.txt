@@ -11,7 +11,7 @@
     
 1.  META
     jei                         > mezz ***
-    jer                         > way2muchnoise
+    jer                         > way2muchnoise *
     jei thaumic                 > buuz135
     hwyla                       > darkhax **
     wawla                       > darkhax **
