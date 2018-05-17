@@ -1,0 +1,113 @@
+# MOD LIST
+# iota 1.12.2
+
+0.  DEPENDENCY                  # AUTHOR
+    elulib                      > elucent ***
+    baubles                     > azanor ***
+    farseek                     > delvr *
+    llibrary                    > ilexiconn
+    orbis api                   > guildedgames **
+    autoreglib                  > vazkii ***
+    
+1.  META
+    jei                         > mezz ***
+    jer                         > way2muchnoise
+    jei thaumic                 > buuz135
+    hwyla                       > darkhax **
+    wawla                       > darkhax **
+    foamfix                     > asiekierka ***
+    vanillafix                  > runemoro
+    journeymap                  > techbrew
+    optifine                    > sp614x
+    betterfps                   > guichaguri
+
+2.  TWEAK
+    instant unify               > mrriegel
+    
+#   AESTHETIC
+    streams                     > delvr *
+    dynamic trees               > ferreusveritas *
+    dynamic surroundings        > orecruncher **
+    
+#   CORE PRIMARY
+    embers                      > elucent ***
+    botania                     > vazkii ***
+    thaumcraft                  > azanor ***
+    astral sorcery              > hellfirepvp *
+    immersive engineering       > blusunrize **
+    cyberware                   > flaxbeard ** (maintained by an_star)
+    refined storage             > raoulvdberge **
+    
+#   CORE PRIMARY ADDONS
+    soot                        > bordlistian
+    aetherworks                 > v0idwa1k3r
+    alternating flux            > antibluequirk
+    immersive petroleum         > flaxbeard **
+    refined storage addons      > raoulvdberge **
+    thaumic periphery           > mangoose3039 **
+    rewired                     > marwat208
+    
+#   CORE SECONDARY
+    arche                       > jasonanaminus *
+    ceramics                    > knightminer *
+    leatherworks                > cleverpanda714 *
+    unique crops                > bafomdad
+    historicized medicine       > seraphaestus
+    muon                        > trinarylogic
+    quark                       > vazkii ***
+    rustic                      > mangoose3039 **
+    chococraft                  > clienthax (mainteed by xalcon *)
+    with sprinkles              > tacossupremes
+    
+#   EXPLORATION
+    ice and fire                > alex1the1666
+    lost souls                  > mcjty ***
+    lost cities                 > mcjty ***
+    roguelike dungeons          > greymerk
+    
+#   EXPLORATION DIMENSIONS
+    the aether 2                > guildedgames **
+    the erebus                  > vadis365
+    the betweenlands            > mrcompost
+    the twilight forest         > benimatic
+    
+#   SURVIVAL
+    bloodmoon                   > lumien **
+    dissolution                 > pyrofab
+    hardcore darkness           > lumien **
+    hardcore spelunking         > rwtema **
+    
+#   SURVIVAL FUN
+    torcherino                  > tehnut ** (maintained by sci4me)
+    ore excavation              > funwayguy **
+    twerk sim 2016              > funwayguy **
+    
+#   QUALITY UTILITY
+    carry on                    > tschipp *
+    no nausea                   > lumien *
+    power drop                  > omegajak
+    
+#   QUALITY ACESSORY
+    akashic tome                > vazkii ***
+    morph-o-tool                > vazkii ***
+    waystones                   > blaytheninth **
+    torchmaster                 > xalcon *
+    open glider                 > gr8pefish *
+    capsule                     > lythom
+    iron chest                  > progwml6 *
+
+9.  POOL
+    0.cofh lib                  > kinglemming ***
+    0.cofh core                 > kinglemming ***
+    0.mtlib                     > jaredlll08 **
+    1. bed bugs                 > gr8pefish *
+    2.mod tweaker               > jaredlll08 **
+    2.craft tweaker             > jaredlll08 **
+    2.loot table tweaker        > darkhax **
+    2.lag goggles               > terminator_nl_44352929
+    clarity                     > elucent ***
+    earthworks                  > alsnder
+    bailies dailies             > toro *
+    thermal expansion           > kinglemming ***
+    coocking for blockheads     > blaytheninth **
+    mumbos redstone additions   > supercat765
