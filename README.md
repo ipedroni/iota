@@ -1,8 +1,5 @@
-# iota 1.12.2
+# iota 1.12.2 manifesto
 The Minimalistic Expansive Minecraft Modpack
-
-MODPACK MANIFESTO
-17/09/2017 & 16/05/2018
 
 # DESCRIPTION
     
